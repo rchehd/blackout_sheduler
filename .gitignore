@@ -33,8 +33,6 @@ mutagen.yml.lock
 /web/update.php
 /web/web.config
 
-/web/sites/default/settings.php
-
 # Ignore .htaccess as Nginx is used
 **/.htaccess
 
